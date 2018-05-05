@@ -7,7 +7,7 @@
        Txt | Image | Sound | Code
 
 
-| ID & concept ( active )
+ ID & concept ( active )
 | production ( down ) 
 | after effects ( down )
   
