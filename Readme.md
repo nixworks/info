@@ -7,9 +7,9 @@
        Txt | Image | Sound | Code
 
 
- ID & concept ( active )
-| production ( down ) 
-| after effects ( down )
+| ID & concept ( active, less than minimum )
+| 2D/3D production ( down ) 
+| post production ( down )
   
 
  -----------------------------------------
